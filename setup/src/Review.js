@@ -30,8 +30,6 @@ const Review = () => {
     });
   };
 
-
-
   return(
   <article className='review'>
     <div className="img-container">
